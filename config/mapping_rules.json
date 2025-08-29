@@ -1,0 +1,178 @@
+{
+  "version": "1.0",
+  "description": "專業PDF表單字段映射規則",
+  "author": "PDF Mapper Demo",
+  "created_date": "2025-08-29T07:26:36.511858",
+  "templates": {
+    "medical_form": {
+      "description": "醫療表單模板",
+      "category": "healthcare",
+      "hipaa_compliant": true,
+      "fields": {
+        "patient_name": {
+          "type": "text",
+          "required": true,
+          "max_length": 50,
+          "validation_pattern": "^[a-zA-Z\\s\\u4e00-\\u9fff]+$",
+          "description": "患者姓名",
+          "example": "張大明"
+        },
+        "patient_id": {
+          "type": "text",
+          "required": true,
+          "max_length": 20,
+          "validation_pattern": "^[A-Z0-9]+$",
+          "description": "患者ID",
+          "example": "P12345"
+        },
+        "date_of_birth": {
+          "type": "date",
+          "required": true,
+          "format": "YYYY-MM-DD",
+          "description": "出生日期",
+          "example": "1990-01-15"
+        },
+        "gender": {
+          "type": "select",
+          "required": true,
+          "options": [
+            "Male",
+            "Female",
+            "Other",
+            "Prefer not to say"
+          ],
+          "description": "性別",
+          "example": "Male"
+        },
+        "emergency_contact": {
+          "type": "boolean",
+          "required": false,
+          "description": "是否有緊急聯絡人",
+          "example": true
+        },
+        "phone": {
+          "type": "phone",
+          "required": false,
+          "max_length": 20,
+          "validation_pattern": "^[0-9\\-\\+\\s\\(\\)]+$",
+          "description": "電話號碼",
+          "example": "+886-2-1234-5678"
+        },
+        "address": {
+          "type": "textarea",
+          "required": false,
+          "max_length": 200,
+          "description": "居住地址",
+          "example": "台北市信義區信義路五段7號"
+        },
+        "insurance_id": {
+          "type": "text",
+          "required": false,
+          "max_length": 30,
+          "description": "保險編號",
+          "example": "INS987654321"
+        }
+      }
+    },
+    "employee_form": {
+      "description": "員工資料表單",
+      "category": "hr",
+      "gdpr_compliant": true,
+      "fields": {
+        "employee_name": {
+          "type": "text",
+          "required": true,
+          "max_length": 60,
+          "description": "員工姓名",
+          "example": "李小華"
+        },
+        "employee_id": {
+          "type": "text",
+          "required": true,
+          "max_length": 15,
+          "validation_pattern": "^EMP[0-9]{4,8}$",
+          "description": "員工編號",
+          "example": "EMP12345"
+        },
+        "department": {
+          "type": "select",
+          "required": true,
+          "options": [
+            "IT",
+            "HR",
+            "Finance",
+            "Marketing",
+            "Sales",
+            "Operations"
+          ],
+          "description": "部門",
+          "example": "IT"
+        },
+        "position": {
+          "type": "text",
+          "required": true,
+          "max_length": 50,
+          "description": "職位",
+          "example": "Senior Developer"
+        },
+        "hire_date": {
+          "type": "date",
+          "required": true,
+          "format": "YYYY-MM-DD",
+          "description": "入職日期",
+          "example": "2024-01-15"
+        },
+        "salary": {
+          "type": "number",
+          "required": false,
+          "min_value": 0,
+          "max_value": 10000000,
+          "description": "薪資",
+          "example": 80000
+        },
+        "remote_work": {
+          "type": "boolean",
+          "required": false,
+          "description": "是否可遠程工作",
+          "example": true
+        }
+      }
+    }
+  },
+  "validation_schema": {
+    "type": "object",
+    "properties": {
+      "version": {
+        "type": "string"
+      },
+      "templates": {
+        "type": "object",
+        "patternProperties": {
+          ".*": {
+            "type": "object",
+            "required": [
+              "description",
+              "fields"
+            ],
+            "properties": {
+              "description": {
+                "type": "string"
+              },
+              "fields": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "settings": {
+    "hipaa_compliance": true,
+    "gdpr_compliance": true,
+    "log_access": true,
+    "encrypt_output": false,
+    "audit_trail": true,
+    "max_file_size_mb": 50
+  }
+}

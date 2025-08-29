@@ -1,0 +1,127 @@
+2025-08-29 07:26:36 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:26:55 | INFO | 成功載入映射規則: C:\Claude\pdf_mapper_demo\config\mapping_rules.json
+2025-08-29 07:26:55 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:26:55 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:26:55 | INFO | 配置文件格式驗證通過
+2025-08-29 07:26:55 | INFO | 配置文件格式驗證通過
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_正常數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_正常數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_變化數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_變化數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_最小數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\medical_form_最小數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_072655.json
+2025-08-29 07:26:55 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_072655.json
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\employee_form_正常數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\employee_form_正常數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\employee_form_變化數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 專業PDF生成成功: data\output\employee_form_變化數據_20250829_072655.pdf
+2025-08-29 07:26:55 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_072655.json
+2025-08-29 07:26:55 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_072655.json
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:26:55 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:27:36 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:27:36 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:27:36 | INFO | 專業PDF生成成功: data\output\interactive_medical_form_20250829_072736.pdf
+2025-08-29 07:27:36 | INFO | 專業PDF生成成功: data\output\interactive_medical_form_20250829_072736.pdf
+2025-08-29 07:29:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:29:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:29:12 | INFO | 專業PDF生成成功: data\output\interactive_employee_form_20250829_072912.pdf
+2025-08-29 07:29:12 | INFO | 專業PDF生成成功: data\output\interactive_employee_form_20250829_072912.pdf
+2025-08-29 07:29:33 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_072933.json
+2025-08-29 07:29:33 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_072933.json
+2025-08-29 07:29:50 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_072950.json
+2025-08-29 07:29:50 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_072950.json
+2025-08-29 07:30:05 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:05 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:16 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:30:16 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:30:27 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:08 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 成功載入映射規則: C:\Claude\pdf_mapper_demo\config\mapping_rules.json
+2025-08-29 07:31:12 | INFO | 成功載入映射規則: C:\Claude\pdf_mapper_demo\config\mapping_rules.json
+2025-08-29 07:31:12 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:31:12 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:31:12 | INFO | 🚀 專業級PDF映射器初始化完成
+2025-08-29 07:31:12 | INFO | 配置文件格式驗證通過
+2025-08-29 07:31:12 | INFO | 配置文件格式驗證通過
+2025-08-29 07:31:12 | INFO | 配置文件格式驗證通過
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_最小數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_最小數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\medical_form_最小數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/medical_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: medical_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_正常數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 專業PDF生成成功: data\output\employee_form_變化數據_20250829_073112.pdf
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 模板架構導出成功: data/output/employee_form_schema_20250829_073112.json
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
+2025-08-29 07:31:12 | INFO | 數據驗證通過: employee_form
